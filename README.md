@@ -1,5 +1,5 @@
 # CPE019
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=FF3670&size=35&center=true&vCenter=true&width=1000&lines=Welcome+to+my+GitHub+profile!;My+name+is+Jacqueline+Atae;I'm+Software+Engineering+Student)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=FF3670&size=35&center=true&vCenter=true&width=1000&lines=Welcome+to+my+GitHub+profile!;My+name+is+Rachel+Joy+Pineda;I'm+a+Computer+Engineering+Student)](https://git.io/typing-svg)
 
 <h3 align="center">"Talk is cheap. Show me the code"</h3>
 <h4 align="center">- Linus Torvalds -</h4>
@@ -10,10 +10,6 @@
 
 <br>
 <br>
-Hi 👋 My name is Rachel Joy Pineda
-==================================
-
-A student taking up BS Computer Engineering
 -------------------------------------------
 
 * 🌍  I'm based in Philippenes
