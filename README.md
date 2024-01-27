@@ -1,12 +1,24 @@
 # ABOUT ME
+
+<br>
+
+![Neutral Cute Collage About Me Presentation](https://github.com/cheliferpnd/CPE019/assets/157883181/2a5d69d3-9f8f-4152-b2e0-8541c8d1c976)
+
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=FF3670&size=35&center=true&vCenter=true&width=1000&lines=Welcome+to+my+GitHub+profile!;My+name+is+Rachel+Joy+Pineda;I'm+a+Computer+Engineering+Student)](https://git.io/typing-svg)
 
-![Brown   White Simple About Me Poster](https://github.com/cheliferpnd/CPE019/assets/157883181/34236ddc-255c-4ff6-a77e-5f085e23d454)
+<!--- snake -->
+<div align="center">
+  <img  src="https://github.com/1999AZZAR/1999AZZAR/blob/main/resources/img/grid-snake.svg"
+       alt="snake" /></a>
+</div>
+
+<br>
+
+![Brown   White Simple About Me Poster (1)](https://github.com/cheliferpnd/CPE019/assets/157883181/8fb66fdf-b1af-42bb-8857-9656256d8f4e)
 
 <h3 align="center">"No matter what challenges or hardships you may face, remember that you are valid, valued, and accepted. It's okay to make mistakes, and it's okay to ask for help when needed. Be gentle and kind to yourself and forgive yourself when you make mistakes. Spend time with people who lift you up and make you feel heard and accepted. Life is not easy at times, but with courage and faith in yourself, you can overcome any obstacle. Take care of yourself and be kind to your heart :)"</h3>
 
 <br>
-<h1><strong>H E L L O ! ! !</strong></h1>
 <h3><strong>こんにちは、見知らぬ人</strong></h3>
 -------------------------------------------
 <img align="right" width=300px alt="Unicorn" src="https://c.tenor.com/GN73MKBawZYAAAAi/busy-cute.gif" />
@@ -30,7 +42,7 @@ I am an undergraduate Computer Engineering student at TIP. C++, Python, Javascri
 
 <p align="left"> <a href="https://discord.com/users/chelifer" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="undefined" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/discord.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/discord.svg" width="32" height="32" /> </picture> </a> <a href="https://www.github.com/cheliferpnd" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /> </picture> </a></p>
 
-### Badges
+<br>
 
 <b>My GitHub Stats</b>
 
