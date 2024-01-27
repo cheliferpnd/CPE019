@@ -1,6 +1,8 @@
 # ABOUT ME
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=FF3670&size=35&center=true&vCenter=true&width=1000&lines=Welcome+to+my+GitHub+profile!;My+name+is+Rachel+Joy+Pineda;I'm+a+Computer+Engineering+Student)](https://git.io/typing-svg)
 
+![Brown   White Simple About Me Poster](https://github.com/cheliferpnd/CPE019/assets/157883181/34236ddc-255c-4ff6-a77e-5f085e23d454)
+
 <h3 align="center">"No matter what challenges or hardships you may face, remember that you are valid, valued, and accepted. It's okay to make mistakes, and it's okay to ask for help when needed. Be gentle and kind to yourself and forgive yourself when you make mistakes. Spend time with people who lift you up and make you feel heard and accepted. Life is not easy at times, but with courage and faith in yourself, you can overcome any obstacle. Take care of yourself and be kind to your heart :)"</h3>
 
 <br>
