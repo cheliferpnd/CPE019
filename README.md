@@ -1,19 +1,20 @@
-# CPE019
+# ABOUT ME
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=FF3670&size=35&center=true&vCenter=true&width=1000&lines=Welcome+to+my+GitHub+profile!;My+name+is+Rachel+Joy+Pineda;I'm+a+Computer+Engineering+Student)](https://git.io/typing-svg)
 
-<h3 align="center">"Talk is cheap. Show me the code"</h3>
-<h4 align="center">- Linus Torvalds -</h4>
+<h3 align="center">"No matter what challenges or hardships you may face, remember that you are valid, valued, and accepted. It's okay to make mistakes, and it's okay to ask for help when needed. Be gentle and kind to yourself and forgive yourself when you make mistakes. Spend time with people who lift you up and make you feel heard and accepted. Life is not easy at times, but with courage and faith in yourself, you can overcome any obstacle. Take care of yourself and be kind to your heart :)"</h3>
 
 <br>
-<h1><strong>H E L L O</strong></h1>
-<h3><strong>こんにちは世界</strong></h3>
-
-<br>
-<br>
+<h1><strong>H E L L O ! ! !</strong></h1>
+<h3><strong>こんにちは、見知らぬ人</strong></h3>
 -------------------------------------------
+<img align="right" width=300px alt="Unicorn" src="https://c.tenor.com/GN73MKBawZYAAAAi/busy-cute.gif" />
+
+## <img src="https://media.giphy.com/media/ObNTw8Uzwy6KQ/giphy.gif" width="30px">&nbsp;***About me***
+
+
+I am an undergraduate Computer Engineering student at TIP. C++, Python, Javascript, HTML, and SQL are the programming languages I have experience and knowledge. I love to learn and build something new, productive, innovative and creative in the future.
 
 * 🌍  I'm based in Philippenes
-* ✉️  You can contact me at [qrjpineda@tip.edu.ph](mailto:qrjpineda@tip.edu.ph)
 
 ### Skills
 
@@ -37,6 +38,13 @@
 
 <a href="https://github.com/cheliferpnd" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=cheliferpnd&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
 
+<br>
+
+## Contact me:
+<div>
+<a href="https://www.instagram.com/rclpnd/" target="_blank"><img loading="lazy" src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
+<a href = "mailto: qrjdpineda@tip.edu.ph"><img loading="lazy" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+
+</div>
 ------
-Credit: [jacquelineatae](https://github.com/jacquelineatae)
-Last Edited on: 16/01/2024
+
